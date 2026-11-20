@@ -6,6 +6,21 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.1.0</title>
+      <pubDate>Fri, 20 Nov 2026 08:28:47 +0000</pubDate>
+      <sparkle:version>299</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[Smoother cropping, and composition guides beyond the rule of thirds.
+
+### New
+- **Crop guide overlays:** Grid, Thirds, Diagonal, Triangle, Golden Ratio, Golden Spiral and Aspect Ratios, as in Lightroom. Press O while cropping to step through them and Shift-O to turn the Triangle or Golden Spiral, or pick one in the Crop panel's Overlay menu or Develop > Crop Guide Overlay. Show them always, only while dragging, or never, and set the lines' thickness, opacity and color in Settings > Develop > Crop Overlay.
+
+### Improved
+- **Crop & Straighten:** dragging a corner, an edge or the whole crop, and straightening, follow the pointer smoothly instead of stuttering.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.1.0/Atelier-1.1.0.zip" length="63013223" type="application/octet-stream" sparkle:edSignature="EW1bLA6DUiCrC4aqHiGro4VGm0JbE2GINNJz/WmQ5pu2U/XKFAcBq7YXT2QzsgI48r8ssewk8/JILdZOCKKMAg=="/>
+    </item>
+    <item>
       <title>Atelier 1.0.0</title>
       <pubDate>Fri, 20 Nov 2026 07:15:41 +0000</pubDate>
       <sparkle:version>296</sparkle:version>
