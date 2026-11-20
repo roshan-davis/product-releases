@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Easel</title>
+    <link>https://github.com/roshan-davis/easel</link>
+    <description>New versions of Easel.</description>
+    <language>en</language>
+    <item>
+      <title>Easel 1.0.0</title>
+      <pubDate>Fri, 20 Nov 2026 08:27:01 +0000</pubDate>
+      <sparkle:version>506</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[The first copy of Easel to share as a file. It now keeps itself up to date.
+
+### New
+- **Easel > Check for Updates…** looks for a new version on Easel’s GitHub releases. Easel also checks once a day by itself.
+- **Settings > Updates:** your version, when Easel last checked, and whether updates download and install by themselves when you quit. Include beta versions if you want previews of the next release.
+- **What’s New in Easel** opens once after each update with what changed, and any time from Help > What’s New in Easel.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/easel-v1.0.0/Easel-1.0.0.zip" length="56330780" type="application/octet-stream" sparkle:edSignature="c6DtDW6oOQGC7sLgvWtYBOOVrCf/Fkdg6GFgdJ5CAJAkZiX/WxlRAiutt5APl1qV7LQB07f1vm5TCvTR0/rgDw=="/>
+    </item>
+  </channel>
+</rss>
