@@ -6,6 +6,18 @@
     <description>New versions of Easel.</description>
     <language>en</language>
     <item>
+      <title>Easel 1.0.1</title>
+      <pubDate>Fri, 20 Nov 2026 09:36:43 +0000</pubDate>
+      <sparkle:version>508</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[Easel opens again after you install it.
+
+### Fixed
+- **Opening Easel:** 1.0.0 quit as soon as it opened on a Mac where it hadn’t been built. It now finds its menus, help and built-in models inside the app.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/easel-v1.0.1/Easel-1.0.1.zip" length="56330524" type="application/octet-stream" sparkle:edSignature="UyHMQKlFHpYYhuobb5wh6QXrKrA2SzdVXK/qV3i/c0tBsgYK2qBYNPElHVlh/l6QYrKQtXwxISxVJ/FS6asiBQ=="/>
+    </item>
+    <item>
       <title>Easel 1.0.0</title>
       <pubDate>Fri, 20 Nov 2026 08:27:01 +0000</pubDate>
       <sparkle:version>506</sparkle:version>
