@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Atelier</title>
+    <link>https://github.com/roshan-davis/atelier</link>
+    <description>New versions of Atelier.</description>
+    <language>en</language>
+    <item>
+      <title>Atelier 1.0.0</title>
+      <pubDate>Fri, 20 Nov 2026 07:15:41 +0000</pubDate>
+      <sparkle:version>296</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[The first copy of Atelier to share as a file. It now keeps itself up to date.
+
+### New
+- **Atelier > Check for Updates…** looks for a new version on Atelier’s GitHub releases. Atelier also checks once a day by itself.
+- **Settings > Updates:** your version, when Atelier last checked, and whether updates download and install by themselves when you quit. Include beta versions if you want previews of the next release.
+- **What’s New in Atelier** opens once after each update with what changed, and any time from Help > What’s New in Atelier.
+- **Catalog backups before upgrades:** when a new version needs to upgrade your catalog, Atelier first saves a copy in the catalog’s Backups > Before Upgrade folder.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.0.0/Atelier-1.0.0.zip" length="62923933" type="application/octet-stream" sparkle:edSignature="+fVbTEvg8UmxjrDNAsJWrH/68m+1PDn1M4+FZa0z/9QIsyLcfT7ipdPlVG2aMuBTG4PBQK+f10pFc90zQhp9Aw=="/>
+    </item>
+  </channel>
+</rss>
