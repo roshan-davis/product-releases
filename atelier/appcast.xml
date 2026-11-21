@@ -6,6 +6,25 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.2.0</title>
+      <pubDate>Sat, 21 Nov 2026 20:21:14 +0000</pubDate>
+      <sparkle:version>302</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[Sharper zoomed editing, steadier panels, and a diagnostic log for when something feels slow.
+
+### New
+- **Diagnostic log:** Help > Diagnostic Logging (or Settings > General > Diagnostics) records Atelier’s memory use and how long things take, such as renders, photo changes, slider drags and previews, to a log you can open with Help > Show Diagnostic Log in Finder. It is off until you turn it on, it’s written in the background so Atelier doesn’t slow down, and it stays within the size you choose (25 MB to start).
+
+### Improved
+- **Develop, zoomed in:** the photo stays sharp while you drag sliders or move between photos, with no low-resolution flash first.
+- **Loupe:** each photo appears once, sharp, instead of a soft picture that sharpens a moment later.
+
+### Fixed
+- **Right panels in Loupe and Develop:** the histogram, camera settings and other readouts no longer flicker or go blank when you move to another photo.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.2.0/Atelier-1.2.0.zip" length="63223056" type="application/octet-stream" sparkle:edSignature="/gPG+IPjs/MwK6jlhYDA8PfOuzX/QCKTontmMLQGozKSbI4lKgDc6HwUblDi/gq22Em6j1q6EJOx0q4axOERAQ=="/>
+    </item>
+    <item>
       <title>Atelier 1.1.0</title>
       <pubDate>Fri, 20 Nov 2026 08:28:47 +0000</pubDate>
       <sparkle:version>299</sparkle:version>
