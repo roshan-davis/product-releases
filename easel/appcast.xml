@@ -6,6 +6,18 @@
     <description>New versions of Easel.</description>
     <language>en</language>
     <item>
+      <title>Easel 1.1.0</title>
+      <pubDate>Sat, 21 Nov 2026 21:42:20 +0000</pubDate>
+      <sparkle:version>511</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[Easel can keep a diagnostic log of its memory use and timings.
+
+### New
+- **Help > Diagnostic Logging** (also Settings > Performance > Diagnostic Log) records Easel’s memory every few seconds and how long things take: canvas frames, opening files, commands and filters, Camera Raw and AI models. It is off until you turn it on, never slows Easel down, and keeps the log within the size you choose (25 MB by default). **Help > Show Diagnostic Log in Finder** shows the file.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/easel-v1.1.0/Easel-1.1.0.zip" length="56414399" type="application/octet-stream" sparkle:edSignature="R5+GKYZO6HWN+75VaKmzh9LZ6Oua8qxMpfSNvNkvGt1QcSkNeSpKpM2wC+kdMfzghLRDwmqkd7o+HNahuoCiDA=="/>
+    </item>
+    <item>
       <title>Easel 1.0.1</title>
       <pubDate>Fri, 20 Nov 2026 09:36:43 +0000</pubDate>
       <sparkle:version>508</sparkle:version>
