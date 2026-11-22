@@ -6,6 +6,34 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.3.0</title>
+      <pubDate>Sun, 22 Nov 2026 10:11:26 +0000</pubDate>
+      <sparkle:version>318</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[One-click filters in the Filmstrip, faster photo changes, and one photo viewer behind every mode.
+
+### New
+- **Filmstrip filters:** the bar above the photo is gone. Filter from the Filmstrip header with one click, as in Lightroom: flag buttons, gold stars for a minimum rating, soft color squares for labels, and More for Edits and Notes. ⓧ next to Filter clears them all.
+- **Search in the toolbar:** the search field is now the first item in the window toolbar, in Grid, Loupe and Develop, even with the Filmstrip hidden.
+- **Settings > Develop > Performance > Photo quality while working:** choose how sliders trade sharpness for speed while you drag.
+
+### Improved
+- **Changing photos:** the next photo shows at once from its preview and sharpens in place, with no spinner or loading bar, in Develop, Loupe and Cull.
+- **Zoomed editing:** drags keep up with the slider and are sharp again the moment you pause.
+- **Crop, AI brush and Guided Upright** use the same photo view as Develop, so zoom and Space-drag panning work the same in every tool.
+- **Filmstrip and Import:** portrait photos show whole instead of cropped.
+- **Grid thumbnail size:** the − + slider is now at the right of the status bar under the grid.
+- **Inspector:** rating stars are gold, as on the thumbnails.
+
+### Fixed
+- **XMP sidecars:** never drop edits made by a newer Atelier.
+- **Keep on This Mac:** kept copies stay with their photo after a catalog restore, and Remove Photo removes them too.
+- **Fine Edges and Depth downloads:** Cancel works while the download is checked, and a new model replaces the old one safely.
+- **Navigator:** its zoom rectangle no longer shows over the next photo.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.3.0/Atelier-1.3.0.zip" length="63284850" type="application/octet-stream" sparkle:edSignature="I1UZoqpXodAYpblHjx2wmum6COp7tSBzRqFr8cqU3H485BUQdc0+T8cXnYVoVkB9livnDPlXv91q90Gx9Wt+Bg=="/>
+    </item>
+    <item>
       <title>Atelier 1.2.0</title>
       <pubDate>Sat, 21 Nov 2026 20:21:14 +0000</pubDate>
       <sparkle:version>302</sparkle:version>
