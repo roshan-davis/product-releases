@@ -6,6 +6,21 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.4.2</title>
+      <pubDate>Mon, 23 Nov 2026 16:08:10 +0000</pubDate>
+      <sparkle:version>330</sparkle:version>
+      <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[Develop's tools switch without a flash, and Constrain Crop shows its crop right away.
+
+### Fixed
+- **Switching Heal, Masking and AI:** the photo stays exactly as it is on screen, with no dark frame, in the full panel and on the rail. Changing photos with a tool open doesn't flash either.
+- **Rail and tools:** clicking another rail icon (Basic, Tone Curve…) while Heal, Masking or AI is out closes that tool, so its cursor and marks leave the photo.
+- **Guided Upright and Show Whole Photo at 100%:** the photo changes to each new view at once.
+- **Constrain Crop:** the photo takes the constrained crop at once, even zoomed in with Guided open. Unchecking it brings back the framing you had before, including a crop you drew.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.4.2/Atelier-1.4.2.zip" length="63829618" type="application/octet-stream" sparkle:edSignature="VcU5Tk+RuRgvWQnSz6Q2Muyjz2q0AbyuoCDgFoUxpdN4hAXH6Bu/GP14Ftz1MAXkDVQjvdokZ+hLHiz9GNO5Aw=="/>
+    </item>
+    <item>
       <title>Atelier 1.4.1</title>
       <pubDate>Mon, 23 Nov 2026 08:20:43 +0000</pubDate>
       <sparkle:version>327</sparkle:version>
