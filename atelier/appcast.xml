@@ -6,6 +6,30 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.4.0</title>
+      <pubDate>Mon, 23 Nov 2026 05:34:46 +0000</pubDate>
+      <sparkle:version>325</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[A right panel that folds down to a rail of icons, clearer panel headers, and Before and After that keeps your zoom.
+
+### New
+- **Right panel as icons:** View > Right Panel > Full Panel, Icons Only or Hidden, in Grid, Loupe and Develop (F8 steps through them, or click the Inspector button in the toolbar; ⌥-click hides it). Icons Only leaves a slim rail beside the photo: click an icon and that section slides out, pin it to keep it open, and ⌘1 to ⌘9 open the sections in order. Dragging the panel's edge narrower snaps it to the rail.
+- **Develop tools on the rail:** Crop, Remove, Masking, AI and Lens Blur sit at the top of the rail; clicking one turns the tool on and opens its panel beside the rail.
+
+### Improved
+- **Panel headers:** every section header has a solid band with an icon before its name, and an open section is marked, in Develop, the Library panel, the left column, HDR, Lens Blur and Import.
+- **Selected look:** toolbar, rail and tool strip buttons show the same soft gray circle when they're on, as in the Finder, instead of blue.
+- **Develop > Before and After:** Slider is now first in the menu, and both Slider and Side by Side open at the zoom you were working at.
+- **Filmstrip:** starts small, so the photo gets more room; drag its top edge to make it taller.
+- **Develop > Remove:** the Content-Aware, Heal and Clone buttons fit the panel.
+- **Atelier Help:** pictures and text show the new toolbar, panel headers and icon rail.
+
+### Fixed
+- **AI Denoise:** the last column or row of a photo with odd dimensions is cleaned like the rest.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.4.0/Atelier-1.4.0.zip" length="63839077" type="application/octet-stream" sparkle:edSignature="d1U0x/zNRGf/D5Hb14eHTm+7X6QQ9m7vAbdlubb/wBJMAZsuiJVhFjrhMk4VcIXy2uPbC2H07PzQ0euxBW37CA=="/>
+    </item>
+    <item>
       <title>Atelier 1.3.0</title>
       <pubDate>Sun, 22 Nov 2026 10:11:26 +0000</pubDate>
       <sparkle:version>318</sparkle:version>
