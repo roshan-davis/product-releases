@@ -6,6 +6,26 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.4.1</title>
+      <pubDate>Mon, 23 Nov 2026 08:20:43 +0000</pubDate>
+      <sparkle:version>327</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[Smoother right panel, and a keyboard that goes everywhere the mouse does.
+
+### Improved
+- **Right panel:** switching between Full Panel, Icons Only and Hidden is one smooth slide, with no flicker, and the photo moves only once.
+- **Remove, Masking and AI on the rail:** their panels float over the photo's edge, so the photo doesn't shrink or redraw when they open. Pin docks them beside the rail.
+- **Moving around with ⌃Tab:** ⌃Tab and ⌃⇧Tab go round the window clockwise: toolbar, right panel, rail, Notes, the grid, the Filmstrip, then the left column. Only what's on screen is a stop, so a hidden left column or Filmstrip is skipped.
+- **Toolbar from the keyboard:** ⌃Tab reaches the toolbar, Tab walks its buttons left to right, and Space or Return presses one.
+- **Arrow keys:** in Grid the four arrows move through the photos, and the left column's Library, Imports, Volumes and Collections work as one list with the arrows, as in the Finder's sidebar.
+
+### Fixed
+- **Click and keyboard agree:** clicking a button, rail icon, checkbox or slider gives it the keyboard, so the next Tab or Space starts there.
+- **Arrow keys after hiding the Filmstrip:** they keep changing photos instead of doing nothing.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.4.1/Atelier-1.4.1.zip" length="63695277" type="application/octet-stream" sparkle:edSignature="nhMuEOzo7OnsxNc5PVrmfk3TK7UZ7w5/DGwByjzJ1iVYl1RmO7mMoNZLtdhMmYnS6OylI8aQtzyU3RTgoSyTDQ=="/>
+    </item>
+    <item>
       <title>Atelier 1.4.0</title>
       <pubDate>Mon, 23 Nov 2026 05:34:46 +0000</pubDate>
       <sparkle:version>325</sparkle:version>
