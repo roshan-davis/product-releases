@@ -6,6 +6,18 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.5.1</title>
+      <pubDate>Wed, 25 Nov 2026 08:34:06 +0000</pubDate>
+      <sparkle:version>337</sparkle:version>
+      <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[Atelier 1.5.0 quit right after opening on some Macs. This version opens normally.
+
+### Fixed
+- **Opening Atelier:** 1.5.0 could quit as soon as it opened while it added the Starter Looks. It now finds them reliably, and if they're ever missing, Atelier opens without them instead of quitting.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.5.1/Atelier-1.5.1.zip" length="65480851" type="application/octet-stream" sparkle:edSignature="0dZaxoVcS97VV2b+C27dJlfshbDh5GS1tvDEuVTeLj5YB1XBoDbteLQfoK7MlxO0wj547h2twJM/qFw4YFHpAA=="/>
+    </item>
+    <item>
       <title>Atelier 1.5.0</title>
       <pubDate>Wed, 25 Nov 2026 08:05:35 +0000</pubDate>
       <sparkle:version>336</sparkle:version>
