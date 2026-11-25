@@ -6,6 +6,26 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.5.0</title>
+      <pubDate>Wed, 25 Nov 2026 08:05:35 +0000</pubDate>
+      <sparkle:version>336</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[Light and color added over your photos, presets that apply several looks at once, and the photo's commands on the rail.
+
+### New
+- **Light Layers:** a Develop panel after Effects that adds generated light over the photo: Light Leak, Color Wash, Lens Flare, Prism, Bokeh and Sun Rays. Add Light places each one where it reads well, and every layer has its own Amount, blend, colors, size, angle and position. Lights are drawn fresh at any size, so exports stay sharp. Lens Flare has its own Rays, Ghosts, Streak and Halo.
+- **Combined presets:** save several presets as one, such as a film tone, a color grade and a light, and apply them in one click. Once applied, the photo just has ordinary settings. Right-click › Edit Combined Preset… changes one later.
+- **Starter Looks and the Light & Color pack:** ready-made looks and light stacks to start from. They're your own copies, so you can change or delete them.
+- **Before and Photo actions on the rail:** with View › Right Panel › Icons Only, the bottom of the rail has Before (lit while on) and … , which slides out Copy, Paste, Before and Reset. Return opens it, ← → move, Esc closes.
+- **Reset a panel from the rail:** right-click a panel's icon for Reset and Turn Off/On, or ⌥-click it to reset it without opening it. Panel headers' right-click menus start with the same.
+
+### Improved
+- **Develop's bar:** Copy, Paste, Before and Reset have icons, the same as on the rail.
+- **Photo right-click menu:** Edit In now starts with Edit in HDR and Edit in Lens Blur, then your other apps. On the photo itself, Open in Loupe and the zoom items are gone; the zoom is in the bar under the photo.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.5.0/Atelier-1.5.0.zip" length="65477318" type="application/octet-stream" sparkle:edSignature="dIFAEwzyDtqYGRS2RDc3uDeDbPcvgYR86NMNdzaRYehU5Tmr5hkW4UnpX8TsnPhZEql1Ap7/2e1XM0smfCpNBw=="/>
+    </item>
+    <item>
       <title>Atelier 1.4.2</title>
       <pubDate>Mon, 23 Nov 2026 16:08:10 +0000</pubDate>
       <sparkle:version>330</sparkle:version>
