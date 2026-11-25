@@ -6,6 +6,18 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.5.2</title>
+      <pubDate>Wed, 25 Nov 2026 18:46:36 +0000</pubDate>
+      <sparkle:version>339</sparkle:version>
+      <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[Lights can be moved again when Light Layers slides out from the rail.
+
+### Fixed
+- **Light Layers on the rail:** with the right panel as icons and Light Layers slid out (not pinned), clicking a light's pin closed the panel and hid the handles, so a Lens Flare or any other light couldn't be moved, sized or turned. The handles now take the click and the panel stays open.]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.5.2/Atelier-1.5.2.zip" length="65266707" type="application/octet-stream" sparkle:edSignature="vsx7i0KNvJN4dmFkd2tEoeWac5EFMMVuHM5GgnZQsvXumVRnf1hdUGfFFzF25KCsTQqdP8SHAz2S/mw4xo5nBQ=="/>
+    </item>
+    <item>
       <title>Atelier 1.5.1</title>
       <pubDate>Wed, 25 Nov 2026 08:34:06 +0000</pubDate>
       <sparkle:version>337</sparkle:version>
