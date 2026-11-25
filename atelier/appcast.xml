@@ -6,6 +6,22 @@
     <description>New versions of Atelier.</description>
     <language>en</language>
     <item>
+      <title>Atelier 1.5.3</title>
+      <pubDate>Wed, 25 Nov 2026 20:15:20 +0000</pubDate>
+      <sparkle:version>342</sparkle:version>
+      <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[The photo works as usual beside a panel slid out from the rail, and Before and After and the zoom readout show what you expect.
+
+### Improved
+- **Panels slid out from the rail:** with the right panel as icons and a section slid out (not pinned), everything on the photo now works as usual: click, drag, double-click, right-click, pinch, scroll and ⌘-scroll, a light's handles, eyedroppers and the Targeted Adjustment Tool. A click on the photo no longer closes the panel; Esc, its ✕ or its icon on the rail do.
+
+### Fixed
+- **Before and After with a light's handles out:** Y and the Before and After buttons now show Slider or Side by Side straight away and put the light's handles away. Before, the buttons changed but the photo didn't until Light Layers closed. Clicking the light (or H) brings the handles back and turns Before and After off. Y does nothing while Crop, AI, Masking, Guided Upright or Remove is out, like the greyed-out buttons.
+- **Zoom readout:** the zoom under the photo no longer shows 2% for a photo at Fit after switching Before and After, and Side by Side shows its own Fit (for example 20%, not the single view's 35%).]]></description>
+      <enclosure url="https://github.com/roshan-davis/product-releases/releases/download/atelier-v1.5.3/Atelier-1.5.3.zip" length="65476937" type="application/octet-stream" sparkle:edSignature="+5ns0Esm+gxjFRdAfhEH6L50Z9BouVIllZP7Y31LifZJWJMsbEhaNhCDWdC3rPaJMsv2dEVZbkEMDY/w8sNuCQ=="/>
+    </item>
+    <item>
       <title>Atelier 1.5.2</title>
       <pubDate>Wed, 25 Nov 2026 18:46:36 +0000</pubDate>
       <sparkle:version>339</sparkle:version>
